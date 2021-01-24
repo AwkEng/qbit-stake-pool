@@ -1,0 +1,1 @@
+# qbit-stake-pool
